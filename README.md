@@ -1,4 +1,4 @@
-## 💻 Тут круто вайбкодим
+## 💻 Тут круто вайбкодим🔫
 
 [![Мой ТГК](https://img.shields.io/badge/Мой_ТГК-@ilkaaIT-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ilkaaIT)
 
