@@ -1,4 +1,6 @@
-## 💻 Тут круто вайбкодим🔫
+# Привет, я Илья 👋
+Берусь за любые проекты, опыт имеется 😉
+Телеграм ниже 👇
 
 [![Мой ТГК](https://img.shields.io/badge/Мой_ТГК-@ilkaaIT-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ilkaaIT)
 
@@ -17,3 +19,8 @@
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![Яндекс Игры](https://img.shields.io/badge/Яндекс_Игры-FC3F1D?style=for-the-badge&logo=yandex&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
+
+### 🤖 Нейронки
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-615CED?style=for-the-badge)
