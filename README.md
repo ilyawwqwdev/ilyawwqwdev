@@ -11,10 +11,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-### 🌐 Платформы и библиотеки
+### 🌐 Платформы
 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![Яндекс Игры](https://img.shields.io/badge/Яндекс_Игры-FC3F1D?style=for-the-badge&logo=yandex&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
-![grammY](https://img.shields.io/badge/grammY-009DCA?style=for-the-badge)
